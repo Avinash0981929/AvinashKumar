@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Avinash Kumar]
+# 👋 Hello, I'm Avinash Kumar
 
 **`DevOps Engineer`** 
 
