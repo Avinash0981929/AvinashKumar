@@ -5,8 +5,8 @@
 # Aspiring - AIOps Engineer 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/avinash-bodasu)
-[![Docker Hub](https://img.shields.io/badge/Docker-YOUR--USERNAME-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://hub.docker.com/u/avinashkumar515)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-333?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Avinash0981929)
+[![Docker Hub](https://img.shields.io/badge/Docker-avinashkumar515-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://hub.docker.com/u/avinashkumar515)
+[![GitHub](https://img.shields.io/badge/Avinash0981929-333?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Avinash0981929)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF6B35?style=for-the-badge)](https://avinashdevopsportfolio.avinashbodasu.workers.dev/)
 
 ## 🚀 About Me
