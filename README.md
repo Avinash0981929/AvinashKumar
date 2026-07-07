@@ -2,7 +2,7 @@
 
 **`DevOps Engineer`** 
 
-# Aspiring - AIOps Engineer 🚀
+# Aspiring - DevOps/AIOps Engineer 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/avinash-bodasu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF6B35?style=for-the-badge)](https://avinashdevopsportfolio.avinashbodasu.workers.dev/)
